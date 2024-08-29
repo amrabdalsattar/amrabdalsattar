@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amr AbdAlsattar</h1>
+<h1 align="center">Hi 👋, I'm Amr Abdalsattar</h1>
 <h3 align="center">Flutter developer</h3>
 
 - 📫 How to reach me **amrmmohamed00@gmail.com**
