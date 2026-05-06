@@ -71,7 +71,6 @@ I'm a **Software Engineer** specializing in both **Mobile** and **Web** — buil
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amrabdalsattar&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363D&title_color=58A6FF&icon_color=58A6FF"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrabdalsattar&layout=compact&langs_count=8&theme=github_dark&border_color=30363D&title_color=58A6FF"/>
 
 <br/>
